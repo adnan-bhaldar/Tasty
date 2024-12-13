@@ -431,6 +431,10 @@ img{
   margin-right: var(--mb-2);
 }
 
+.footer__social:hover{
+  color: var(--first-color);
+}
+
 .footer__title{
   font-size: var(--h2-font-size);
   color: var(--title-color);
